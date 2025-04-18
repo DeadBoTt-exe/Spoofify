@@ -20,3 +20,6 @@ This project is a **music recommendation system** that analyzes song lyrics usin
 - Matplotlib
 
 - Clone the repository: git clone https://github.com/DeadBoTt-exe/Spoofify.git
+
+- Dont forget to run pip install -r requirements.txt to install all required libraries 
+
