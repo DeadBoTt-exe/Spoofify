@@ -12,13 +12,10 @@ This project is a **music recommendation system** that analyzes song lyrics usin
 - 🧠 Final dominant emotion summary for each song
 
 ## 🧰 Tech Stack
-- Python 3.11+
-- Pandas
-- Scikit-learn
-- TextBlob
-- NRCLex
-- Matplotlib
+- Python
 
+
+ ##
 - Clone the repository: git clone https://github.com/DeadBoTt-exe/Spoofify.git
 
 - Dont forget to run pip install --> -r requirements.txt to install all required libraries 
