@@ -1,0 +1,11 @@
+#!below command to install the required python packages
+#pip install -r requirements.txt
+
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+textblob
+wordcloud
+nrclex
