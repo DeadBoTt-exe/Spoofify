@@ -19,4 +19,4 @@ This project is a **music recommendation system** that analyzes song lyrics usin
 - NRCLex
 - Matplotlib
 
-- Clone the repository:
+- Clone the repository: git clone https://github.com/DeadBoTt-exe/Spoofify.git
